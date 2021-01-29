@@ -31,7 +31,7 @@ bool Otg(int key)
 
 int main()
 {
-	ShowWindow(GetConsoleWindow(), SW_SHOW);
+	ShowWindow(GetConsoleWindow(), SW_HIDE);
 
 	while (true) {
 		Sleep(10);
