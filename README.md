@@ -14,5 +14,5 @@ record the information you type into a website or application and send to back t
 <br>
 * Fud
 <br>
-<img src="https://github.com/walczy/Skinjbir/blob/main/r1.jpg"></img>
+<img src="https://github.com/walczy/Skinjbir/blob/main/r1.JPG"></img>
 <br>
