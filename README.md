@@ -18,6 +18,6 @@ record the information you type into a website or application and send to back t
 <br>
 <img src="https://github.com/walczy/Skinjbir/blob/main/r1.JPG"></img>
 <br>
-#Disclaimer
+# Disclaimer
 * I take no responsibility for Harmful using or any damage can make. Use it at your own risk.
 
