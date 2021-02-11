@@ -13,13 +13,13 @@ record the information you type into a website or application and send to back t
 <img src="https://github.com/walczy/Skinjbir/blob/main/r2.jpg"></img>
 <br>
 
-* Fud
+* Undectable  (60+ Antivirus )
 
 <br>
 <img src="https://github.com/walczy/Skinjbir/blob/main/r1.JPG"></img>
 <br>
 
-* More badass features will be available soon
+* More badass features will be available soon Like(Screen capture,Stealing Crypto,Steal credential...and more powerful features!!)
 
 # Disclaimer
 * I take no responsibility for Harmful using or any damage can make. Use it at your own risk.
