@@ -24,7 +24,7 @@ record the information you type into a website or application and send to back t
 ### Anti-Debug
 * the keylogger will self close 'Silently' anytime he detect a debugger or being debugged !!
 ```  
-   The techniques that used to Detect a debuggers :
+   The techniques that used to Detect debuggers :
   - Memory
   - CPU
   - Timing
