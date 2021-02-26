@@ -21,9 +21,9 @@ record the information you type into a website or application and send to back t
 <img src="https://github.com/walczy/Skinjbir/blob/main/r1.JPG"></img>
 <br>
 
-* Anti-Debug
+### Anti-Debug
 
-### AntiDBG is a collection of Windows Anti Debugging techniques. The techniques are categorized by the methods they use to find a debugger. 
+* AntiDBG is a collection of Windows Anti Debugging techniques. The techniques are categorized by the methods they use to find a debugger. 
   - Memory
   - CPU
   - Timing
