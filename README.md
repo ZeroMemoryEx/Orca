@@ -23,13 +23,14 @@ record the information you type into a website or application and send to back t
 
 ### Anti-Debug
 
-* AntiDBG is a collection of Windows Anti Debugging techniques. The techniques are categorized by the methods they use to find a debugger. 
+``` the keylogger will self close 'Silently' anytime he detect a debugger or being debugged !! 
+    The techniques that used to Detect a debuggers :
   - Memory
   - CPU
   - Timing
   - Forced Exceptions
   - [AntiDBG Library](https://github.com/HackOvert/AntiDBG)
-  - 
+  ```
 * More staff  will be available soon Like (Screen capture,Stealing Crypto,Steal credential...!!)
 
 # Disclaimer
