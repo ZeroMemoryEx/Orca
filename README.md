@@ -30,8 +30,14 @@ record the information you type into a website or application and send to back t
   - Forced Exceptions
   ```
   [AntiDBG Library](https://github.com/HackOvert/AntiDBG)
-* More Advanced features will  be added soon like :
-** Process Injection
+### More Advanced features will  be added soon like :
+* 🔥 Process Injection (Advanced technique used to elevate privilege or inject malicious code into running processes ...)
+<br>
+<img src="https://github.com/walczy/Skinjbir/blob/main/pi.gif"></img>
+<br>
+* 🔥 Crypto Grabber
+* 🔥 self destruction 
+
 
 # Disclaimer
 * I take no responsibility for Harmful using or any damage can make. Use it at your own risk.
