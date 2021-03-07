@@ -9,7 +9,6 @@ record the information you type into a website or application and send to back t
 # features
 * Run in Background (Hidden Mode)
 
-
 * Anti Task Manager Kill (when you try to kill it it will display blue screen)
 <br>
 <img src="https://github.com/walczy/Skinjbir/blob/main/r2.jpg"></img>
@@ -31,7 +30,8 @@ record the information you type into a website or application and send to back t
   - Forced Exceptions
   ```
   [AntiDBG Library](https://github.com/HackOvert/AntiDBG)
-* More staff  will be available soon Like (Screen capture,Stealing Crypto,Steal credential...!!)
+* More Advanced features will  be added soon like :
+** Process Injection
 
 # Disclaimer
 * I take no responsibility for Harmful using or any damage can make. Use it at your own risk.
