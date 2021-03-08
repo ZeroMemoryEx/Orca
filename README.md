@@ -37,7 +37,7 @@ record the information you type into a website or application and send to back t
 <br>
 
 * 🔥 Crypto Grabber
-* 🔥 self destruction 
+
 
 
 # Disclaimer
