@@ -126,7 +126,7 @@ void  checker()
 		adbg_HardwareDebugRegisters();
 		adbg_MovSS();
 		adbg_RDTSC();
-		//adbg_QueryPerformanceCounter();
+		adbg_QueryPerformanceCounter();
 		adbg_GetTickCount();
 		adbg_CloseHandleException();
 		adbg_SingleStepException();
