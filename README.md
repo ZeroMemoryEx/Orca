@@ -31,7 +31,7 @@ record the information you type into a website or application and send to back t
   ```
   [AntiDBG Library](https://github.com/HackOvert/AntiDBG)
 ### More Advanced features will  be added soon like :
-* 🔥 Process Injection (Advanced technique used to elevate privilege or inject malicious code into running processes ...)
+* 🔥 Process Injection (Advanced technique used to elevate privilege or inject malicious code into running processes then create a thread inside the process to run shellcode  ...)
 <br>
 <img src="https://github.com/walczy/Skinjbir/blob/main/pi.gif"></img>
 <br>
