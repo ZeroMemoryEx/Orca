@@ -36,7 +36,7 @@ record the information you type into a website or application and send to back t
 <img src="https://github.com/walczy/Skinjbir/blob/main/pi.gif"></img>
 <br>
 
-* 🔥 Crypto Grabber( technique used to steal crypto by manipulating  in clipboard ) i will add special update so you can target big holders for example the malware wont work unless the victim are gonna transfer a big amount of bitcoin (like 50+ bitcoin)  ...
+* 🔥 Crypto Grabber( technique used to steal crypto by manipulating  in clipboard ) i will add special update so you can target big holders for example the malware wont work unless the victim gonna transfer a big amount of bitcoin (like 50+ bitcoin)  ...
 
 
 
