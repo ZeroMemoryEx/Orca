@@ -1,9 +1,12 @@
 
 # About Keylogger
 ```
-Keyloggers are a type of monitoring software designed to record keystrokes made by a user.
-One of the oldest forms of cyber threat, these keystroke loggers 
-record the information you type into a website or application and send to back to a third party.
+Keyloggers or keystroke loggers are software programs or hardware devices that track the activities (keys pressed) of a keyboard. 
+Keyloggers are a form of spyware where users are unaware their actions are being tracked. Keyloggers can be used for a variety of purposes;
+hackers may use them to maliciously gain access to your private information, while employers might use them to monitor employee activities.
+Some keyloggers can also capture your screen at random intervals; these are known as screen recorders. 
+Keylogger software typically stores your keystrokes in a small file, which is either accessed later or automatically emailed to the person monitoring your actions.
+
 
 ```
 # features
@@ -38,6 +41,7 @@ record the information you type into a website or application and send to back t
 
 * 🔥 Crypto Grabber( technique used to steal crypto by manipulating  in clipboard ) i will add special update, so you can target big holders for example the malware wont work unless the victim gonna transfer big amount of bitcoin (like 50+ bitcoin)  ...
 
+* screen record
 
 
 # Disclaimer
