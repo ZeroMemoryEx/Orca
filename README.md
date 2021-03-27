@@ -1,13 +1,17 @@
 
 # About Keylogger
 ```
-Keyloggers or keystroke loggers are software programs or hardware devices that track the activities (keys pressed) of a keyboard. 
-Keyloggers are a form of spyware where users are unaware their actions are being tracked. 
+Keyloggers or keystroke loggers are software programs or hardware devices
+that track the activities (keys pressed) of a keyboard. 
+Keyloggers are a form of spyware where users are unaware
+their actions are being tracked. 
 Keyloggers can be used for a variety of purposes;
 hackers may use them to maliciously gain access to your private information,
 while employers might use them to monitor employee activities.
-Some keyloggers can also capture your screen at random intervals; these are known as screen recorders. 
-Keylogger software typically stores your keystrokes in a small file, which is either accessed later or automatically 
+Some keyloggers can also capture your screen at random intervals;
+these are known as screen recorders. 
+Keylogger software typically stores your keystrokes in a small file,
+which is either accessed later or automatically 
 emailed to the person monitoring your actions.
 
 
