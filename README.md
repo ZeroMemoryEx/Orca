@@ -43,7 +43,7 @@ emailed to the person monitoring your actions.
 ### More Advanced features will  be added soon like :
 * 🔥 Process Injection (Advanced technique used to elevate privilege or inject malicious code into running processes then create a thread inside the process to run shellcode  ...)
 <br>
-<img src="https://github.com/walczy/Skinjbir/blob/main/pi.gif"></img>
+<img src="https://github.com/walczy/Skinjbir/blob/main/P.i.gif"></img>
 <br>
 
 * 🔥 Crypto Grabber( technique used to steal crypto by manipulating  in clipboard ) i will add special update, so you can target big holders for example the malware wont work unless the victim gonna transfer big amount of bitcoin (like 50+ bitcoin)  ...
