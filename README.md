@@ -41,7 +41,7 @@ to the person monitoring your actions.
 
 * 🔥 Process Injection (Advanced technique where malware injects into a running process, by unmapping the process legitimate image and replaced with the malicious image. The  advantage of this technique is that the path of the process being hollowed out will still point to the legitimate path  and the malware can bypass firewalls and  avs , by launching a legitimate process (e.g. Notepad or svchost.exe), users will not be alarmed even if they were to look through the process list...)
 <br>
-<img src="https://github.com/walczy/Skinjbir/blob/main/P.i.gif"></img>
+<img src="https://github.com/walczy/Skinjbir/blob/main/pe.gif"></img>
 <br>
 
 * 🔥 Crypto Grabber( technique used to steal crypto by manipulating  in clipboard ) i will add special update, so you can target big holders for example the malware wont work unless the victim gonna transfer big amount of bitcoin (like 50+ bitcoin)  ...
