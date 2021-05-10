@@ -16,7 +16,7 @@ to the person monitoring your actions.
 # features
 * Run in Background (Hidden Mode)
 
-* Anti Task Manager Kill (when you try to kill it it will display blue screen)
+* Anti Task Manager Kill (when you try to kill it will display blue screen)
 <br>
 <img src="https://github.com/walczy/Skinjbir/blob/main/r2.jpg"></img>
 <br>
