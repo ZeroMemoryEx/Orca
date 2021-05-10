@@ -41,7 +41,8 @@ emailed to the person monitoring your actions.
   ```
   [AntiDBG Library](https://github.com/HackOvert/AntiDBG)
 ### More Advanced features will  be added soon like :
-* 🔥 Process Injection (Advanced technique used to elevate privilege or inject malicious code into running processes then create a thread inside the process to run shellcode  ...)
+
+* 🔥 Process Injection (Advanced technique where malware injects into a running process, by unmapping the process legitimate image and replaced with the malicious image. The  advantage of this technique is that the path of the process being hollowed out will still point to the legitimate path  and the malware can bypass firewalls and  avs , by launching a legitimate process (e.g. Notepad or svchost.exe), users will not be alarmed even if they were to look through the process list...)
 <br>
 <img src="https://github.com/walczy/Skinjbir/blob/main/P.i.gif"></img>
 <br>
