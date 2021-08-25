@@ -8,7 +8,7 @@
 #include <thread>
 
 /*
-Create By Anas hd
+Create By Anas hadane
 Github : https://github.com/ZeroM3m0ry
 */
 using namespace std;
