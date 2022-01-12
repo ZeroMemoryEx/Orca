@@ -6,8 +6,6 @@
 # features
 * Run in Background (Hidden Mode)
 
-* Records keystrokes and saves them in a file .
-
 ### Anti-Task manager kill using RtlSetProcessIsCritical
 
 * RtlSetProcessIsCritical used to protect the process from termination , any attempt to terminate it will cause the system to crash :(
