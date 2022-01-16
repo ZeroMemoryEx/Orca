@@ -6,9 +6,10 @@
 # features
 * Run in Background (Hidden Mode)
 
-### Anti-Task manager kill using RtlSetProcessIsCritical
+### Critical Process using RtlSetProcessIsCritical
 
-* RtlSetProcessIsCritical used to protect the process from termination , any attempt to terminate it will cause the system to crash :(
+* RtlSetProcessIsCritical makes the process critical, any attempt to terminate it will BSOD the system (Blue Screen of Death) , although it can be bypassed easly using NtSetInformationProcess by injecting DLL into it , i made PoC of it you can check it from here [BypassRtlSetProcessIsCritical](https://github.com/ZeroM3m0ry/BypassRtlSetProcessIsCritical)
+
 
 <br>
 <img src="https://github.com/walczy/Skinjbir/blob/main/r2.jpg"></img>
@@ -82,10 +83,7 @@ void antiVr() {
 * WriteProcessMemory (used to write the path of the shellcode into the allocated memory)
 * CreateRemoteThread (used to creates a thread in the virtual memory area of a process)
 
-### More Advanced features will  be added soon like :
-
-* 🔥 Crypto Grabber( technique used to steal crypto by manipulating  in clipboard ) i will add special update so you can target big holders ,eg the malware will work only when the victim is gonna transfer specific amount of bitcoin in ``` specific wallet``` (like >400 bitcoin)  ...
-
+### More Advanced features will  be added soon
 # Disclaimer
 * I take no responsibility for Harmful using or any damage can make. Use it at your own risk.
 
